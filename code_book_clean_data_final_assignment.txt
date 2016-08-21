@@ -1,0 +1,5 @@
+file name: clean_data_final_assignment.txt
+subject: id of the subject wearing the device, range 1-30.
+label: label of the activities when wearing the device.
+va: the variable captured during the experiment. Only mean and std of various features from the original dataset.
+x: average value of the variables aggregated from the original dataset.
